@@ -1,4 +1,4 @@
-py-cord==2.6.0
+py-cord==2.6.3
 requests==2.32.3
 aiohttp==3.11.11
 qrcode==8.0
